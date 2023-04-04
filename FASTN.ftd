@@ -1,9 +1,34 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
+-- fastn.package: fifthtry.github.io/admint-nunito-font
 
--- fastn.dependency: fifthtry.github.io/doc-site as ds
--- fastn.dependency: fifthtry.github.io/bling as bling
+-- fastn.dependency: fifthtry.github.io/package-doc
 
--- fastn.auto-import: bling/chat as chat
--- fastn.auto-import: ds
+
+-- fastn.font: Nunito
+style: normal
+weight: 700
+woff2: -/fifthtry.github.io/admint-nunito-font/static/Nunito-Bold.2814ea037527bd21c35a.woff2
+display: swap
+
+
+
+-- fastn.font: Nunito
+style: normal
+weight: 400
+woff2: -/fifthtry.github.io/admint-nunito-font/static/Nunito-Regular.17d6fb4cbd2d4a010f50.woff2
+display: swap
+
+
+-- fastn.font: Nunito
+style: normal
+weight: 400
+woff2: -/fifthtry.github.io/admint-nunito-font/static/Nunito-Regular.17d6fb4cbd2d4a010f50.woff2
+display: swap
+
+
+-- fastn.font: Nunito
+style: normal
+weight: 600
+woff2: -/fifthtry.github.io/admint-nunito-font/static/Nunito-SemiBold.404b1d8521611e076ddd.woff2
+display: swap
