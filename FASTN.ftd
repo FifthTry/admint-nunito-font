@@ -32,3 +32,10 @@ style: normal
 weight: 600
 woff2: -/fifthtry.github.io/admint-nunito-font/static/Nunito-SemiBold.404b1d8521611e076ddd.woff2
 display: swap
+
+
+-- fastn.font: Inter
+style: normal
+weight: 700
+woff2: -/fifthtry.github.io/admint-nunito-font/static/Inter-Bold.645621da4d850caa525b.woff2
+display: swap
