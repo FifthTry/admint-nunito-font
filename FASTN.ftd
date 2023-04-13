@@ -18,12 +18,6 @@ display: swap
 
 -- fastn.font: Nunito
 style: normal
-weight: 400
-woff2: -/fifthtry.github.io/admint-nunito-font/static/Nunito-Regular.17d6fb4cbd2d4a010f50.woff2
-display: swap
-
--- fastn.font: Nunito
-style: normal
 weight: 600
 woff2: -/fifthtry.github.io/admint-nunito-font/static/Nunito-SemiBold.404b1d8521611e076ddd.woff2
 display: swap
