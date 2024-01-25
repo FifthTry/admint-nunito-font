@@ -1,0 +1,496 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "AF2B07A7D37B4A5CEBBBF05959768EABC2D3F5F35A955FA0E724A601F729C390",
+      "size": 22266
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "36CC7743B3D53F045CDD590A8F9925ADFB5A3963C5598194652EA65143AF372B",
+      "size": 1369
+    },
+    "doc-site-example.png": {
+      "name": "doc-site-example.png",
+      "checksum": "611E21D16829D0FACDB5D2C21ABA2ADF95BF7359DAFA16FCE1351F0AC0E5C44B",
+      "size": 90059
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "4519C618CDFD42F73573A14049AAA4FAB9C9B1ABBF4B37DB57A6BBA2D7F654AB",
+      "size": 2899
+    },
+    "static/Inter-Bold.645621da4d850caa525b.woff2": {
+      "name": "static/Inter-Bold.645621da4d850caa525b.woff2",
+      "checksum": "AEE77369A41E217C6C11B7A165ED3C86C9D0C70BE5A7A6252D4CF7F27AF326B9",
+      "size": 89896
+    },
+    "static/Nunito-1000-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-1000-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-1000-italic-cyrillic.woff2": {
+      "name": "static/Nunito-1000-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-1000-italic-latin-ext.woff2": {
+      "name": "static/Nunito-1000-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-1000-italic-latin.woff2": {
+      "name": "static/Nunito-1000-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-1000-italic-vietnamese.woff2": {
+      "name": "static/Nunito-1000-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-1000-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-1000-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-1000-normal-cyrillic.woff2": {
+      "name": "static/Nunito-1000-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-1000-normal-latin-ext.woff2": {
+      "name": "static/Nunito-1000-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-1000-normal-latin.woff2": {
+      "name": "static/Nunito-1000-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-1000-normal-vietnamese.woff2": {
+      "name": "static/Nunito-1000-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-200-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-200-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-200-italic-cyrillic.woff2": {
+      "name": "static/Nunito-200-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-200-italic-latin-ext.woff2": {
+      "name": "static/Nunito-200-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-200-italic-latin.woff2": {
+      "name": "static/Nunito-200-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-200-italic-vietnamese.woff2": {
+      "name": "static/Nunito-200-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-200-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-200-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-200-normal-cyrillic.woff2": {
+      "name": "static/Nunito-200-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-200-normal-latin-ext.woff2": {
+      "name": "static/Nunito-200-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-200-normal-latin.woff2": {
+      "name": "static/Nunito-200-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-200-normal-vietnamese.woff2": {
+      "name": "static/Nunito-200-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-300-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-300-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-300-italic-cyrillic.woff2": {
+      "name": "static/Nunito-300-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-300-italic-latin-ext.woff2": {
+      "name": "static/Nunito-300-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-300-italic-latin.woff2": {
+      "name": "static/Nunito-300-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-300-italic-vietnamese.woff2": {
+      "name": "static/Nunito-300-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-300-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-300-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-300-normal-cyrillic.woff2": {
+      "name": "static/Nunito-300-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-300-normal-latin-ext.woff2": {
+      "name": "static/Nunito-300-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-300-normal-latin.woff2": {
+      "name": "static/Nunito-300-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-300-normal-vietnamese.woff2": {
+      "name": "static/Nunito-300-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-400-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-400-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-400-italic-cyrillic.woff2": {
+      "name": "static/Nunito-400-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-400-italic-latin-ext.woff2": {
+      "name": "static/Nunito-400-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-400-italic-latin.woff2": {
+      "name": "static/Nunito-400-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-400-italic-vietnamese.woff2": {
+      "name": "static/Nunito-400-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-400-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-400-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-400-normal-cyrillic.woff2": {
+      "name": "static/Nunito-400-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-400-normal-latin-ext.woff2": {
+      "name": "static/Nunito-400-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-400-normal-latin.woff2": {
+      "name": "static/Nunito-400-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-400-normal-vietnamese.woff2": {
+      "name": "static/Nunito-400-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-500-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-500-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-500-italic-cyrillic.woff2": {
+      "name": "static/Nunito-500-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-500-italic-latin-ext.woff2": {
+      "name": "static/Nunito-500-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-500-italic-latin.woff2": {
+      "name": "static/Nunito-500-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-500-italic-vietnamese.woff2": {
+      "name": "static/Nunito-500-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-500-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-500-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-500-normal-cyrillic.woff2": {
+      "name": "static/Nunito-500-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-500-normal-latin-ext.woff2": {
+      "name": "static/Nunito-500-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-500-normal-latin.woff2": {
+      "name": "static/Nunito-500-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-500-normal-vietnamese.woff2": {
+      "name": "static/Nunito-500-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-600-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-600-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-600-italic-cyrillic.woff2": {
+      "name": "static/Nunito-600-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-600-italic-latin-ext.woff2": {
+      "name": "static/Nunito-600-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-600-italic-latin.woff2": {
+      "name": "static/Nunito-600-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-600-italic-vietnamese.woff2": {
+      "name": "static/Nunito-600-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-600-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-600-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-600-normal-cyrillic.woff2": {
+      "name": "static/Nunito-600-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-600-normal-latin-ext.woff2": {
+      "name": "static/Nunito-600-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-600-normal-latin.woff2": {
+      "name": "static/Nunito-600-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-600-normal-vietnamese.woff2": {
+      "name": "static/Nunito-600-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-700-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-700-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-700-italic-cyrillic.woff2": {
+      "name": "static/Nunito-700-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-700-italic-latin-ext.woff2": {
+      "name": "static/Nunito-700-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-700-italic-latin.woff2": {
+      "name": "static/Nunito-700-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-700-italic-vietnamese.woff2": {
+      "name": "static/Nunito-700-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-700-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-700-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-700-normal-cyrillic.woff2": {
+      "name": "static/Nunito-700-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-700-normal-latin-ext.woff2": {
+      "name": "static/Nunito-700-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-700-normal-latin.woff2": {
+      "name": "static/Nunito-700-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-700-normal-vietnamese.woff2": {
+      "name": "static/Nunito-700-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-800-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-800-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-800-italic-cyrillic.woff2": {
+      "name": "static/Nunito-800-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-800-italic-latin-ext.woff2": {
+      "name": "static/Nunito-800-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-800-italic-latin.woff2": {
+      "name": "static/Nunito-800-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-800-italic-vietnamese.woff2": {
+      "name": "static/Nunito-800-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-800-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-800-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-800-normal-cyrillic.woff2": {
+      "name": "static/Nunito-800-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-800-normal-latin-ext.woff2": {
+      "name": "static/Nunito-800-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-800-normal-latin.woff2": {
+      "name": "static/Nunito-800-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-800-normal-vietnamese.woff2": {
+      "name": "static/Nunito-800-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-900-italic-cyrillic-ext.woff2": {
+      "name": "static/Nunito-900-italic-cyrillic-ext.woff2",
+      "checksum": "AAC9E01E17819441440920621FD93218683684B18A7E4EBDE0EEB246D9685A10",
+      "size": 31380
+    },
+    "static/Nunito-900-italic-cyrillic.woff2": {
+      "name": "static/Nunito-900-italic-cyrillic.woff2",
+      "checksum": "E6A83A4BE7B9736CAF5E1562B6E2E9365B29EC71ADFA1D55E6E6D765CCF90771",
+      "size": 22784
+    },
+    "static/Nunito-900-italic-latin-ext.woff2": {
+      "name": "static/Nunito-900-italic-latin-ext.woff2",
+      "checksum": "B01F72B524E8687548547BE1067DDAEEAD6A6574E67A2844BAA6EFC34C13CBEA",
+      "size": 35520
+    },
+    "static/Nunito-900-italic-latin.woff2": {
+      "name": "static/Nunito-900-italic-latin.woff2",
+      "checksum": "FE7839E0DC27D5A668C79B399849D56BC542D9C5DBF2CE2B52C476C6A35A7803",
+      "size": 37852
+    },
+    "static/Nunito-900-italic-vietnamese.woff2": {
+      "name": "static/Nunito-900-italic-vietnamese.woff2",
+      "checksum": "3CD26A2F977D1D7AB2A71630C382FD9ABEE24986819B1139DA0FCB76AD8AF9D2",
+      "size": 11660
+    },
+    "static/Nunito-900-normal-cyrillic-ext.woff2": {
+      "name": "static/Nunito-900-normal-cyrillic-ext.woff2",
+      "checksum": "B2611FA3F916D23DF9B0735BA668944500FF23B73F9DA4FBB10818C875D482A0",
+      "size": 28960
+    },
+    "static/Nunito-900-normal-cyrillic.woff2": {
+      "name": "static/Nunito-900-normal-cyrillic.woff2",
+      "checksum": "7CA4B4BB8BE6840990CC92B2DEE938F142DF99C93CE85063B391A09369B63B17",
+      "size": 20824
+    },
+    "static/Nunito-900-normal-latin-ext.woff2": {
+      "name": "static/Nunito-900-normal-latin-ext.woff2",
+      "checksum": "89DEF7428656F40331C1430EE1DC1846ED1E30D7001707B548F9F816D27264A5",
+      "size": 32720
+    },
+    "static/Nunito-900-normal-latin.woff2": {
+      "name": "static/Nunito-900-normal-latin.woff2",
+      "checksum": "96217F1D27FB909F92B4A6B35A0D3D6775F2F0B4D136D27AEE88547D3ED87357",
+      "size": 35904
+    },
+    "static/Nunito-900-normal-vietnamese.woff2": {
+      "name": "static/Nunito-900-normal-vietnamese.woff2",
+      "checksum": "0EF9726DBC36B5871EFA4B0CFDC43FD1BFED5DD48AEB70DC8210E8CB9BC9247B",
+      "size": 10632
+    },
+    "static/Nunito-Bold.2814ea037527bd21c35a.woff2": {
+      "name": "static/Nunito-Bold.2814ea037527bd21c35a.woff2",
+      "checksum": "2793DDF49AFAF0284DF34BD7B8E7D2D539F703F1BEC1B19CC7BF8DE69AB12FD5",
+      "size": 43908
+    },
+    "static/Nunito-Regular.17d6fb4cbd2d4a010f50.woff2": {
+      "name": "static/Nunito-Regular.17d6fb4cbd2d4a010f50.woff2",
+      "checksum": "56D503927554674E988CB78F8837ED20439D84CF4F184DA9B014E216401317F4",
+      "size": 42924
+    },
+    "static/Nunito-SemiBold.404b1d8521611e076ddd.woff2": {
+      "name": "static/Nunito-SemiBold.404b1d8521611e076ddd.woff2",
+      "checksum": "C427DB882081122B6DE52D7FD48D209781BDDB525FE6D454054A555D573CBAD3",
+      "size": 43348
+    }
+  },
+  "zip_url": "https://codeload.github.com/fifthtry/admint-nunito-font/zip/refs/heads/main",
+  "checksum": "9F960A292BFB7642249505259794DE4E5DCC21DF3B06F3750776395B81F60C27"
+}
